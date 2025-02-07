@@ -27,7 +27,7 @@
     "next-plausible": "^3.12.4",
     "party-js": "^2.2.0",
     "postgres": "^3.4.5",
-    "react": "19.0.0-rc-66855b96-20241106",
+    "react": "19.0.0",
     "react-dom": "19.0.0-rc-66855b96-20241106",
     "react-use-measure": "^2.1.1",
     "tailwind-merge": "^2.5.5",
